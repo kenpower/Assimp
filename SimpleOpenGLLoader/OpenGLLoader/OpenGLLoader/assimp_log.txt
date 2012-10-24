@@ -1,0 +1,18 @@
+Info,  T6072: Load C:\Program Files\Assimp/test/models-nonbsd/MD5/Bob.md5mesh
+Info,  T6072: Found a matching importer for this file format
+Info,  T6072: Import root directory is 'C:\Program Files\Assimp/test/models-nonbsd/MD5\'
+Info,  T6072: commandline ""
+Skipping one or more lines with the same contents
+Info,  T6072: Entering post processing pipeline
+Info,  T6072: RemoveRedundantMatsProcess finished. 1 redundant and 0 unused materials
+Info,  T6072: Points: 0, Lines: 0, Triangles: 6, Polygons: 0 (Meshes, X = removed)
+Warn,  T6072: Simplified dummy tracks with just one key
+Skipping one or more lines with the same contents
+Info,  T6072: GenVertexNormalsProcess finished. Vertex normals have been calculated
+Info,  T6072: CalcTangentsProcess finished. Tangents have been calculated
+Info,  T6072: JoinVerticesProcess finished | Verts in: 3081 out: 1050 | ~65.9%
+Info,  T6072: Removed 1 bones. Input bones: 1. Output bones: 0
+Skipping one or more lines with the same contents
+Info,  T6072: Removed 2 bones. Input bones: 2. Output bones: 0
+Info,  T6072: Cache relevant are 7 meshes (1027 faces). Average output ACMR is 1.141188
+Info,  T6072: Leaving post processing pipeline
